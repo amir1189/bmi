@@ -1,7 +1,7 @@
 # Body Mass Index Calculator 
 
 Features 
-1. Give you Accurate readings of your BMI
+1. Gives you Accurate readings of your BMI
 2. Encourages you to keep Healthy yourself
 3. BMI Chart
 4. Unit Conversion facility on single click
