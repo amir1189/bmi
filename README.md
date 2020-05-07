@@ -1,4 +1,4 @@
-#Body Mass Index Calculator 
+# Body Mass Index Calculator 
 
 Features 
 1. Give you Accurate readings of your BMI
