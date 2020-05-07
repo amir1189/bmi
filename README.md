@@ -1,1 +1,1 @@
-# Body Mass Index Calculator with Lots of Features.
+Body Mass Index Calculator with Lots of Features.
